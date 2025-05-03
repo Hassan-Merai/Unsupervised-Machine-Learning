@@ -116,5 +116,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👋 Contact
 
 **Hassan Merai (Fred)**
-[LinkedIn](https://linkedin.com/in/hassan-merai-nickname-fred/) | [Medium](https://medium.com/@your-handle)
+[LinkedIn](https://linkedin.com/in/hassan-merai-nickname-fred/) | [Medium](https://medium.com/@hassanmerai79)
 Want to collaborate or learn more? Reach out anytime!
