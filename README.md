@@ -13,13 +13,13 @@ Automatically group 5,000 Spotify songs into **human-like playlists** using unsu
 
 ## 📈 Demo Preview
 
-![Clustering Results](C:\Users\Hassan\OneDrive\Documents and papers\Hassan Documents\WBS_Bootcamp\data engineering project\songs\New folder/Playlist_Sample) <!-- Replace with your own image -->
+![Clustering Results Presentation](https://docs.google.com/presentation/d/1Supwql6Tjsp6WrbA1mp9ue9IY_zc4JSq/edit?usp=sharing&ouid=108748831738353750828&rtpof=true&sd=true) <!-- Replace with your own image -->
 
 ---
 
 ## 🌐 Live Article
 
-Read more on Medium: [Teaching Machines to Curate Music](https://medium.com/your-article-link) <!-- Replace with your actual Medium link -->
+Read more on Medium: [Teaching Machines to Curate Music](https://medium.com/@hassanmerai79/teaching-machines-to-curate-music-smart-playlist-generation-using-clustering-and-spotify-audio-6dc1444e0063) <!-- Replace with your actual Medium link -->
 
 ---
 
@@ -59,8 +59,8 @@ Read more on Medium: [Teaching Machines to Curate Music](https://medium.com/your
 
 | Playlist   | Characteristics                     | Sample Use Case       |
 | ---------- | ----------------------------------- | --------------------- |
-| Cluster 12 | High danceability, upbeat valence   | Summer vibes playlist |
-| Cluster 27 | Low energy, acoustic & instrumental | Focus / chill mix     |
+| Cluster 14 | High danceability, upbeat valence   | Summer vibes playlist |
+| Cluster 22 | Low energy, acoustic & instrumental | Focus / chill mix     |
 
 ---
 
